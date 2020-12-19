@@ -5,7 +5,7 @@ Privado,CONSTRUFAM-LoteB,RHN,Total,20288.03
 Privado,CONSTRUFAM-LoteC,RHN,Total,20353.70
 Privado,EPAGRI-SC,RHN,Total,10887.54
 Privado,UFC-Cuiaba,RHN,Total,21849.09
-Privado,UFC-Altamira ,RHN,Total,31048.05
+Privado,UFC-Altamira,RHN,Total,31048.05
 CPRM,CPRM-SUREG-MA,RHN,Total,43693.78
 CPRM,CPRM-SUREG-PV,RHN,Total,24937.74
 CPRM,CPRM-SUREG-BE,RHN,Total,28281.79
@@ -36,7 +36,7 @@ Privado,CONSTRUFAM-LoteB,RHN,MaterialConsumo,8708.46
 Privado,CONSTRUFAM-LoteC,RHN,MaterialConsumo,8602.09
 Privado,EPAGRI-SC,RHN,MaterialConsumo,4257.07
 Privado,UFC-Cuiaba,RHN,MaterialConsumo,9684.90
-Privado,UFC-Altamira ,RHN,MaterialConsumo,14054.56
+Privado,UFC-Altamira,RHN,MaterialConsumo,14054.56
 CPRM,CPRM-SUREG-MA,RHN,MaterialConsumo,16049.26
 CPRM,CPRM-SUREG-PV,RHN,MaterialConsumo,9794.64
 CPRM,CPRM-SUREG-BE,RHN,MaterialConsumo,10320.40
@@ -67,7 +67,7 @@ Privado,CONSTRUFAM-LoteB,RHN,PagamentoObservador,3626.44
 Privado,CONSTRUFAM-LoteC,RHN,PagamentoObservador,3136.61
 Privado,EPAGRI-SC,RHN,PagamentoObservador,2496.75
 Privado,UFC-Cuiaba,RHN,PagamentoObservador,2012.16
-Privado,UFC-Altamira ,RHN,PagamentoObservador,2186.06
+Privado,UFC-Altamira,RHN,PagamentoObservador,2186.06
 CPRM,CPRM-SUREG-MA,RHN,PagamentoObservador,2608.98
 CPRM,CPRM-SUREG-PV,RHN,PagamentoObservador,1919.20
 CPRM,CPRM-SUREG-BE,RHN,PagamentoObservador,3022.38
@@ -98,7 +98,7 @@ Privado,CONSTRUFAM-LoteB,RHN,Medicao,7953.12
 Privado,CONSTRUFAM-LoteC,RHN,Medicao,8615.00
 Privado,EPAGRI-SC,RHN,Medicao,4133.72
 Privado,UFC-Cuiaba,RHN,Medicao,10152.02
-Privado,UFC-Altamira ,RHN,Medicao,14807.42
+Privado,UFC-Altamira,RHN,Medicao,14807.42
 CPRM,CPRM-SUREG-MA,RHN,Medicao,25035.54
 CPRM,CPRM-SUREG-PV,RHN,Medicao,13223.90
 CPRM,CPRM-SUREG-BE,RHN,Medicao,14939.01
@@ -171,11 +171,11 @@ Privado,UFC-Cuiaba,RHN,D,4944.65
 Privado,UFC-Cuiaba,RHN,S,5328.30
 Privado,UFC-Cuiaba,RHN,Q,4572.04
 Privado,UFC-Cuiaba,RHN,LT,4369.91
-Privado,UFC-Altamira ,RHN,P,4964.81
-Privado,UFC-Altamira ,RHN,F,6763.23
-Privado,UFC-Altamira ,RHN,PF,7015.81
-Privado,UFC-Altamira ,RHN,T,6396.31
-Privado,UFC-Altamira ,RHN,D,4617.55
-Privado,UFC-Altamira ,RHN,S,4490.54
-Privado,UFC-Altamira ,RHN,Q,4357.14
-Privado,UFC-Altamira ,RHN,LT,4223.80
+Privado,UFC-Altamira,RHN,P,4964.81
+Privado,UFC-Altamira,RHN,F,6763.23
+Privado,UFC-Altamira,RHN,PF,7015.81
+Privado,UFC-Altamira,RHN,T,6396.31
+Privado,UFC-Altamira,RHN,D,4617.55
+Privado,UFC-Altamira,RHN,S,4490.54
+Privado,UFC-Altamira,RHN,Q,4357.14
+Privado,UFC-Altamira,RHN,LT,4223.80
