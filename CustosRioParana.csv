@@ -1,3 +1,9 @@
-TipoEstacao,CustoMaterialConsumo,CustoPagamentoObservador,CustoMedicao,CustoUnitarioTotal
-RHN,8021.04,2878.35,11747.66,22647.04
-RHNR,10787.99,3047.73,15908.38,29744.10
+TipoPM,TipoCusto,CustoUnitario
+RHN,MaterialConsumo,8021.04
+RHN,PagamentoObservador,2878.35
+RHN,Medicao,11747.66
+RHN,Total,22647.04
+RHNR,MaterialConsumo,10787.99
+RHNR,PagamentoObservador,3047.73
+RHNR,Medicao,15908.38
+RHNR,Total,29744.10
